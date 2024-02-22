@@ -22,7 +22,7 @@ if (containerEmailInput) {
         e.preventDefault();
         containerSubscribeButton.blur();
         if (validate(emailPattern, containerEmailInput)) {
-            window.location.href = 'pagina_boton.html';
+            window.location.href = 'pag-boton/pagina_boton.html';
             localStorage.setItem('subscriberEmail', containerEmailInput.value)
         }  
     }
