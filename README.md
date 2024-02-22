@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/4ylmTzPW)
 # Parcial Primer Corte
 
 ## HTML, CSS y JavaScript
@@ -32,3 +33,6 @@ Requerimientos:
 | HTML Semántico             | 1       |
 | Funcionalidad              | 1.5     |
 | Despliegue en Github Pages | 0.5     |
+
+
+## link pagina web:  https://dsaw-2024-1.github.io/parcial-primer-corte-maikil09/
